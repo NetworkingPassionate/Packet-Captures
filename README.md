@@ -24,13 +24,13 @@ A practical dive into network traffic analysis using Wireshark. This project hig
 | tcpdump | (Optional) CLI capture layer | 
 | Python | Post-capture parsing (if used) | 
 
-
+\
 📸 Example
 Found decoded credentials in HTTP payload:
 - Source IP: 192.168.1.105
 - Payload: username=admin&password=letmein
 
-
+\
 🗂️ Structure
 wireshark-analysis/
 \
