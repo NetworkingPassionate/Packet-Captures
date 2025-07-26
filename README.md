@@ -22,9 +22,8 @@ Found decoded credentials in HTTP payload:
 - Payload: username=admin&password=letmein
 🗂️ Structure
 wireshark-analysis/
-├── captures/
-├── logs/
-└── README.md
+<img width="193" height="84" alt="image" src="https://github.com/user-attachments/assets/74247ad2-263d-4a33-af2f-02f0bcead9a0" />
+
 
 
 🚀 Next Steps
