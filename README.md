@@ -23,13 +23,13 @@ A practical dive into network traffic analysis using Wireshark. This project hig
 | Wireshark | Packet capture & inspection | 
 | tcpdump | (Optional) CLI capture layer | 
 | Python | Post-capture parsing (if used) | 
-\
+
 
 📸 Example
 Found decoded credentials in HTTP payload:
 - Source IP: 192.168.1.105
 - Payload: username=admin&password=letmein
-\
+
 
 🗂️ Structure
 wireshark-analysis/
@@ -37,7 +37,7 @@ wireshark-analysis/
 <img width="193" height="84" alt="image" src="https://github.com/user-attachments/assets/74247ad2-263d-4a33-af2f-02f0bcead9a0" />
 
 
-\
+
 
 🚀 Next Steps
 - Suricata rule-based traffic detection
