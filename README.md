@@ -38,7 +38,7 @@ wireshark-analysis/
 
 \
 \
-\
+
 🚀 Next Steps
 - Suricata rule-based traffic detection
 - Integration with SIEM workflows
